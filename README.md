@@ -17,7 +17,7 @@ This project provides a **modular, reusable, and configurable Terraform module**
 
 **Project tree**
 
-terraform-vpc-module
+Terraform-vpc-module
 modules/
 vpc/
  main.tf
