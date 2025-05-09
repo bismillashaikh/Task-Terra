@@ -33,8 +33,7 @@ README.md
 
 
 ** How to Use**
-
-# clone repository using command git (clone https://github.com/your-username/terraform-vpc-module.git)
+ clone repository using command git clone
 
 cd terraform-vpc-module/examples/sample-vpc
 
