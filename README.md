@@ -15,7 +15,7 @@ This project provides a **modular, reusable, and configurable Terraform module**
 
  
 
-Project tree
+**Project tree**
 
 terraform-vpc-module
 modules/
@@ -33,6 +33,8 @@ README.md
 
 
 ** How to Use**
+
+
  clone repository using command git clone
 
 cd terraform-vpc-module/examples/sample-vpc
